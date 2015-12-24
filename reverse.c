@@ -1,3 +1,8 @@
+// coded by Banibrata Mandal
+// im21219
+// banibrata.creator@gmail.com | www.facebook.com/banibrata.imposter | www.twitter.com/banibrata-21219
+// www.banibrata-21219.blogspot.com | 9046632178 | 7812928261
+
 #include<stdio.h>
 #include<string.h>
 
